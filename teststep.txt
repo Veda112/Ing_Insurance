@@ -1,4 +1,3 @@
-welcome to devops
-nirmala
+Welcome to Devops
 
 
